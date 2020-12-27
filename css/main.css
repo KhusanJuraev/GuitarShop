@@ -1,0 +1,45 @@
+@import "../components/Header/Header.css";
+@import "../components/Products/Products.css";
+@import "../components/Shopping/Shopping.css";
+@import "../components/Spinner/Spinner.css";
+@import "../components/Error/Error.css";
+
+:root {
+    --color-light: #f8f9fa;
+    --color-white: #ffffff;
+    --color-primary: #005ca9;
+    --color-dark: #808080;
+    --color-muted: #e7e7e7;
+    --spacing-small: 10px;
+    --spacing-medium: 15px;
+    --spacing-large: 30px;
+    --border-radius: 20px;
+    --font-size-small: 16px;
+    --box-shadow: 0 10px 25px rgba(0, 0, 0, .01);
+    --box-shadow-medium: 0 0 100px rgba(0, 0, 0, .5);
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--color-dark);
+    border-radius: var(--border-radius);
+}
+
+::-webkit-scrollbar-track {
+    background-color: var(--color-white);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    line-height: 1.7;
+    background-color: var(--color-light);
+}

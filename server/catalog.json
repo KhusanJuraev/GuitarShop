@@ -1,0 +1,50 @@
+[
+  {
+    "id": "el1",
+    "name": "TAYLOR 224CE-K DLX SHADED EDGEBURST",
+    "img": "https://i.ibb.co/QJfqs4K/1.jpg",
+    "price": 250000
+  },
+  {
+    "id": "el2",
+    "name": "LOWDEN S-50W FIGURED WALNUT NATURAL",
+    "img": "https://i.ibb.co/pKrG5ZJ/2.jpg",
+    "price": 750000
+  },
+  {
+    "id": "el3",
+    "name": "GIBSON G-45 STUDIO ANTIQUE NATURAL",
+    "img": "https://i.ibb.co/NnvcYhR/3.jpg",
+    "price": 540000
+  },
+  {
+    "id": "el4",
+    "name": "GIBSON 2016 L-00 STANDARD VINTAGE",
+    "img": "https://i.ibb.co/4Tg91WL/4.jpg",
+    "price": 360000
+  },
+  {
+    "id": "el",
+    "name": "TAYLOR GT URBAN ASH NATURAL / URBAN SIENNA",
+    "img": "https://i.ibb.co/MC7sy1F/5.jpg",
+    "price": 999000
+  },
+  {
+    "id": "el6",
+    "name": "PRS LIMITED EDITION SE P20E POWDER BLUE",
+    "img": "https://i.ibb.co/WH1h2wV/7.jpg",
+    "price": 250000
+  },
+  {
+    "id": "el7",
+    "name": "MARTIN D-41 PURPLE MARTIN COCOBOLO",
+    "img": "https://i.ibb.co/30qJcZX/10.jpg",
+    "price": 740000
+  },
+  {
+    "id": "el8",
+    "name": "PRS SE A50E NATURAL / CHARCOAL BURST",
+    "img": "https://i.ibb.co/MC7sy1F/5.jpg",
+    "price": 550000
+  }
+]

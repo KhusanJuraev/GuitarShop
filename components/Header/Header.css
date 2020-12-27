@@ -1,0 +1,19 @@
+.header-container {
+    width: 100%;
+    padding: var(--spacing-small) var(--spacing-large);
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo h3{
+    margin: 0;
+}
+
+.header-counter {
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
